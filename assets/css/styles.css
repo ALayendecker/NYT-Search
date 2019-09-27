@@ -2,11 +2,20 @@
     background-color: #091544    
     color: white;
     margin: 5%;
-    
+
     
 }
 
 #form-group {
+    margin: 20%;
+    background-color:lightslategray;
+
 
 }
 
+input {
+    background-color:lightslategray;
+    color:white;
+    margin:25%;
+    
+}
